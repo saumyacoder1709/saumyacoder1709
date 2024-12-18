@@ -1,5 +1,3 @@
-
-
 # **Hi there 👋, I'm Saumya!**  
 _A passionate learner, developer, and mentor!_  
 
@@ -43,7 +41,6 @@ _A passionate learner, developer, and mentor!_
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
 </div>
 
-
 ---
 
 ## 🌍 **GitHub Stats**  
@@ -56,17 +53,6 @@ _A passionate learner, developer, and mentor!_
 - 🏅 Mentored **two repositories** during **OpenCode** organized by **Geekhaven, IIIT Allahabad**.
 - Currently a member of **AI-ML wing** at **Geekhaven, IIIT Allahabad**.
 
----
-
-## 🤝 **Let's Connect!**  
-<div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/saumya-agrawal-370185313/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="mailto:saumyagrawal1709@gmail.com" target="_blank" style="margin-left: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" />
-  </a>
-</div>
 ---
 
 ## ⚡ **Fun Fact**  
