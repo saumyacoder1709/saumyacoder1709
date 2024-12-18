@@ -59,9 +59,14 @@ _A passionate learner, developer, and mentor!_
 ---
 
 ## 🤝 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-agrawal-370185313/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyagrawal1709@gmail.com)  
-
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/saumya-agrawal-370185313/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="mailto:saumyagrawal1709@gmail.com" target="_blank" style="margin-left: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" />
+  </a>
+</div>
 ---
 
 ## ⚡ **Fun Fact**  
