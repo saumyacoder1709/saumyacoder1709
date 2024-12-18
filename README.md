@@ -4,17 +4,13 @@ _A passionate learner, developer, and mentor!_
 ---
 
 ## 🌟 **About Me**  
-- 🎓 Pursuing **B.Tech (IT)** from **IIIT Allahabad**.  
-- 💻 **Interests**: Exploring **Data Structures and Algorithms (DSA)**, **Machine Learning**, and **Open Source Development**.  
-- 🚀 **Current Projects**:  
-  - 🔹 [**Pestering-Data**](https://github.com/opencodeiiita/Pestering-Data):  
-    An open-source project mentored by me, leveraging **transfer learning** and **transformers** to build an **image classification model**.  
-  - 🔹 [**Techtonic**](https://github.com/opencodeiiita/Techtonic):  
-    A beginner-friendly open-source project designed for **freshers**, introducing them to the world of **open-source development**.  
-- 🌱 **Currently Learning**:  
-  - Advanced **Deep Learning** concepts.  
-  - Mastering **DSA** for competitive programming.  
-- 📫 **Contact Me**:  
+- 🎓 **B.Tech (IT)** student at **IIIT Allahabad**.  
+- 💻 Exploring **DSA**, **Machine Learning**, and **Open Source Development**.  
+- 🚀 Currently mentoring:  
+  - [Pestering-Data](https://github.com/opencodeiiita/Pestering-Data): Transfer learning-based image classification.  
+  - [Techtonic](https://github.com/opencodeiiita/Techtonic): Freshers' intro to open source.  
+- 🌱 Learning: **Deep Learning**, Advanced **DSA**.  
+- 📫 Reach me at:  
   - Email: [saumyagrawal1709@gmail.com](mailto:saumyagrawal1709@gmail.com)  
   - LinkedIn: [Saumya Agrawal](https://www.linkedin.com/in/saumya-agrawal-370185313/)  
 
@@ -51,10 +47,9 @@ _A passionate learner, developer, and mentor!_
 
 ## 🏆 **Achievements**  
 - 🏅 Mentored **two repositories** during **OpenCode** organized by **Geekhaven, IIIT Allahabad**.
-- Currently a member of **AI-ML wing** at **Geekhaven, IIIT Allahabad**.
+- 🏅 Currently a member of **AI-ML wing** at **Geekhaven, IIIT Allahabad**.
 
 ---
 
 ## ⚡ **Fun Fact**  
 _I enjoy writing poems and expressing my thoughts creatively!_  
-
