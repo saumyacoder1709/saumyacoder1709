@@ -42,8 +42,7 @@ _A passionate learner, developer, and mentor!_
 
 ## 🌍 **GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saumyacoder1709&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyacoder1709&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=saumyacoder1709&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyacoder1709&layout=compact&theme=radical)
 
 ---
 
