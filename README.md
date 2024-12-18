@@ -19,23 +19,57 @@ _A passionate learner, developer, and mentor!_
 ## 🛠️ **Tech Stack**
 
 ### **Languages**  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>](https://www.python.org/)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>](https://www.oracle.com/java/) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>](https://isocpp.org/)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>](https://en.wikipedia.org/wiki/C_(programming_language))  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>
+  </a>
+</p>
 
 ### **Frameworks & Tools**  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>](https://www.tensorflow.org/)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>](https://keras.io/)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>](https://git-scm.com/)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>](https://github.com/)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>](https://www.linux.org/)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>](https://www.figma.com/)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>](https://pandas.pydata.org/)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>](https://numpy.org/)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>](https://matplotlib.org/)  
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
